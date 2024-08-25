@@ -1,1 +1,2 @@
-thisis demo1 file
+thisis demo1 fil
+adding one more line for git reset
