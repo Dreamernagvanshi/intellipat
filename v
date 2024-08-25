@@ -1,0 +1,43 @@
+[33mcommit 396d4d62dfce02f3b4281f301697cbbcf30380fb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Dreamernagvanshi <gauravnagvanshi20@gmail.com>
+Date:   Sun Aug 25 17:54:43 2024 +0000
+
+    reset exacmple
+
+[33mcommit 32962ee406d7640f5b547113b73f712a13576fac[m
+Author: Dreamernagvanshi <gauravnagvanshi20@gmail.com>
+Date:   Sun Aug 25 17:49:59 2024 +0000
+
+    Revert "this is my third commit"
+    
+    This reverts commit acc006cfa981b939e06adc340c954380887f4c2a.
+
+[33mcommit d68b87873e94e1faef60a81a01d583aa21515d47[m
+Author: Dreamernagvanshi <gauravnagvanshi20@gmail.com>
+Date:   Sun Aug 25 17:49:53 2024 +0000
+
+    fdgdfgd
+
+[33mcommit 2541194f1ff9fd0740c413c2316bf642c8d938fe[m
+Author: Dreamernagvanshi <gauravnagvanshi20@gmail.com>
+Date:   Sun Aug 25 17:39:51 2024 +0000
+
+    second alst commit
+
+[33mcommit b632e5d1529549b1fdc2dcd4ce8b84a216d2edfc[m[33m ([m[1;33mtag: [m[1;33mv1.0.0[m[33m, [m[1;33mtag: [m[1;33mannihilator[m[33m)[m
+Author: Dreamernagvanshi <gauravnagvanshi20@gmail.com>
+Date:   Thu Aug 22 17:46:07 2024 +0000
+
+     this is my tird commit
+
+[33mcommit acc006cfa981b939e06adc340c954380887f4c2a[m
+Author: Dreamernagvanshi <gauravnagvanshi20@gmail.com>
+Date:   Thu Aug 22 12:49:10 2024 +0000
+
+    this is my third commit
+
+[33mcommit 105b4f5196e115c2fa4e6a751f81ff1b987c006b[m
+Author: Dreamernagvanshi <gauravnagvanshi20@gmail.com>
+Date:   Mon Aug 19 16:19:04 2024 +0000
+
+    first commit
